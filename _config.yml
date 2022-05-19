@@ -20,15 +20,13 @@
 
 title: Shit Karin Says
 email: steeban@protonmail.com
-description: >- 
-  We all know Karin talks a lot of trash. 
-  Throughout the years she has had some real zingers. 
-  Let's try to catalog them here, at shitkarinsays.com!
+description: "We all know Karin talks a lot of trash. Throughout the years she has had some real zingers. Let's try to catalog them here, at shitkarinsays.com"
 domain: steve-gale.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: https://steve-gale.github.io
-
 github_username:  steve-gale
+
+show_downloads: false
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
