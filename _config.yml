@@ -19,13 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Shit Karin Says
-email: steeban@protonmail.com
 description: "We all know Karin talks a lot of trash. Throughout the years she has had some real zingers. Let's try to catalog them here, at shitkarinsays.com"
-domain: steve-gale.github.io
+domain: shitkarinsays.com
 baseurl: ""
-url: https://steve-gale.github.io
 github_username:  steve-gale
-
+url: https://shitkarinsays.com
+github: [metadata]
 show_downloads: false
 
 # Build settings
