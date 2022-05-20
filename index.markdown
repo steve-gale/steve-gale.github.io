@@ -6,9 +6,17 @@ layout: default
 title: Shit Karin Says
 description: "We all know Karin talks a lot of trash. Throughout the years she has had some real zingers. Let's try to catalog them here, at shitkarinsays.com"
 ---
-> "I'll fix your little red wagon"
+> # "I'll fix your little red wagon"
 >
-> "You lie like a rug"
+> # "You lie like a rug"
+>
+> # "I was born cool"
+>
+> # "I like to say it"
+>
+> # "Wacko-Jacko"
+>
+> # "F this, F that"
 >
 
 <hr>
